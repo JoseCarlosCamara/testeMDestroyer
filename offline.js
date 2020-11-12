@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605133663,
+	"version": 1605198784,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -30,6 +30,13 @@
 		"images/titulodestroyer-sheet0.png",
 		"images/triggeraudio-sheet0.png",
 		"images/destroyertrigger-sheet0.png",
+		"images/touchesquerda-sheet0.png",
+		"images/touchdireita-sheet0.png",
+		"images/touchcima-sheet0.png",
+		"images/touchbaixo-sheet0.png",
+		"images/touchshoot-sheet0.png",
+		"images/touchr-sheet0.png",
+		"images/touchbckspc-sheet0.png",
 		"media/telainicialfx1.ogg",
 		"media/telainicialfx2.m4a",
 		"media/telainicialfx2.ogg",
