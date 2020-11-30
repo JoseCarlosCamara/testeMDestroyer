@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1605543549,
+	"version": 1606769591,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -46,6 +46,7 @@
 		"images/caixapowerup-sheet0.png",
 		"images/touchex-sheet0.png",
 		"images/barreira3-sheet0.png",
+		"images/touchfullscreen-sheet0.png",
 		"media/telainicialfx1.ogg",
 		"media/telainicialfx2.m4a",
 		"media/telainicialfx2.ogg",
